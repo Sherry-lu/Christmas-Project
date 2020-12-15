@@ -24,3 +24,6 @@
 9. 3 resister
 10.  1 box
 11.  1 screen
+
+![782260942](https://user-images.githubusercontent.com/71327254/102220424-2c69ca80-3eb7-11eb-9eda-60cfa10aff4f.jpg)
+
